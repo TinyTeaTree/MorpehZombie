@@ -1,0 +1,8 @@
+
+/Morpeh/.idea
+*.csproj
+/Morpeh/UserSettings
+/Morpeh/Library
+/Morpeh/Logs
+/Morpeh/obj
+*.sln
